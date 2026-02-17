@@ -1,1 +1,8 @@
 # Django_project
+
+## Cicd
+
+
+
+
+
